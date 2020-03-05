@@ -1,3 +1,4 @@
+from .._common import *
 import glob
 
 def _is_wildcard(string):
